@@ -1,0 +1,44 @@
+[
+	{
+		"id": 101,
+		"title": "Shovel",
+		"value": 543,
+		"stats": {
+			"str": 10,
+			"health": 1,
+			"luk": 5
+		},
+		"description": "삽이다.",
+		"stackable": true,
+		"rarity": 1,
+		"slug": "shovel"
+	},
+	{
+		"id": 201,
+		"title": "Back Pack",
+		"value": 6,
+		"stats": {
+			"str": 1,
+			"health": 4,
+			"luk": 2
+		},
+		"description": "가방이다.",
+		"stackable": true,
+		"rarity": 2,
+		"slug": "backpack"
+	},
+	{
+		"id": 301,
+		"title": "Gas Mask",
+		"value": 33,
+		"stats": {
+			"str": 1,
+			"health": 4,
+			"luk": 2
+		},
+		"description": "마스크다.",
+		"stackable": true,
+		"rarity": 3,
+		"slug": "gasmask"
+	}
+]
